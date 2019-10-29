@@ -62,7 +62,9 @@ img {
   border-style: none;
 }
 .personal {
-  border-style: none;
+  border-style: solid;
+  border-color: grey;
+  border-width: 1px;
   display: block;
   margin-left: auto;
   margin-right: auto;
